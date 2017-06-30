@@ -3,7 +3,7 @@
   box-sizing: border-box;
   border: 1px solid
   margin: 15px;
-  padding: 0px;
+  padding: 5px;
 }
 @media (min-width: 992px) {
 <!--This is desktop mode-->
