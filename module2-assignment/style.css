@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  border: 1px solid
+  margin: 15px;
+  padding: 0px;
+}
+@media (min-width: 992px) {
+<!--This is desktop mode-->
+}
+@media (max-width: 991px) and (min-width: 768px) {
+<!--This is tablet mode-->
+}
+@media (max-width: 767px) {
+<!--This is mobile mode-->
+}
