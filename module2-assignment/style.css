@@ -8,6 +8,21 @@ h1 {
   text-align: center;
 }
 
+.color1 {
+  background-color: red;
+  color: white;
+}
+
+.color2 {
+  background-color: blue;
+  color: white;
+}
+
+.color3 {
+  background-color: yellow;
+  color: gray;
+}
+
 .box {
   position: relative;
   padding: 10px;
