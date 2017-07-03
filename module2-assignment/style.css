@@ -21,8 +21,8 @@ p {
   width: 100%;
 }
 
-div {
-  margin: 10px
+.box {
+  height: 100px;
 }
 
 /********** Large devices only **********/
