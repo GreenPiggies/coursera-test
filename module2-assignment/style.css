@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -12,16 +13,13 @@ h1 {
 }
 
 .contents {
-  position: absolute;
-  right: 0px;
-  top: 0px;
-  /*border: 1px solid black;		  
+  border: 1px solid black;		  
   width: 90%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: gray*/
+  color: gray
 }
 
 /* Simple Responsive Framework. */
@@ -158,3 +156,5 @@ h1 {
     width: 100%;
   }
 }
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
